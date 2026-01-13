@@ -221,5 +221,3 @@
 - Flutter / React Native / Web 모두 대응 가능
 - JSON 기반 API 설계가 단순해짐
 - 템플릿 + 커스텀 확장이 쉬운 구조
-
-원하면 다음 단계로 **DB 스키마**, **API 명세**, **Flutter MVVM 구조**까지 바로 이어서 정리할 수 있음 👍
