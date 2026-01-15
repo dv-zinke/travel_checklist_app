@@ -1,0 +1,11 @@
+{
+  "country": "Japan",
+  "countryKo": "일본",
+  "code": "JP",
+  "requiredItems": ["passport"],
+  "recommendedItems": ["cash", "power_adapter", "travel_insurance"],
+  "notes": {
+    "en": "Japan uses 100V power with Type A/B plugs. Many places are cash-only.",
+    "ko": "일본은 100V 전압과 A/B 타입 플러그를 사용합니다. 현금 결제만 가능한 곳이 많습니다."
+  }
+}

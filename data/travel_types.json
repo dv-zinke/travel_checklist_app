@@ -1,0 +1,44 @@
+[
+  {
+    "id": "international",
+    "title": "International Travel",
+    "titleKo": "해외여행",
+    "icon": "airplane",
+    "includeTags": ["international"]
+  },
+  {
+    "id": "domestic",
+    "title": "Domestic Travel",
+    "titleKo": "국내여행",
+    "icon": "car",
+    "includeTags": ["domestic"]
+  },
+  {
+    "id": "business",
+    "title": "Business Trip",
+    "titleKo": "출장",
+    "icon": "briefcase",
+    "includeTags": ["business", "international"]
+  },
+  {
+    "id": "backpacking",
+    "title": "Backpacking",
+    "titleKo": "배낭여행",
+    "icon": "walk",
+    "includeTags": ["backpacking", "international"]
+  },
+  {
+    "id": "family",
+    "title": "Family Trip",
+    "titleKo": "가족여행",
+    "icon": "people",
+    "includeTags": ["family", "international"]
+  },
+  {
+    "id": "beach",
+    "title": "Beach / Resort",
+    "titleKo": "해변/리조트",
+    "icon": "sunny",
+    "includeTags": ["beach", "resort", "international"]
+  }
+]

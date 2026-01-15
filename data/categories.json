@@ -1,0 +1,8 @@
+[
+  { "id": "documents", "title": "Documents", "titleKo": "서류", "icon": "document-text", "order": 1 },
+  { "id": "clothing", "title": "Clothing", "titleKo": "의류", "icon": "shirt", "order": 2 },
+  { "id": "electronics", "title": "Electronics", "titleKo": "전자기기", "icon": "phone-portrait", "order": 3 },
+  { "id": "toiletries", "title": "Toiletries", "titleKo": "세면용품", "icon": "water", "order": 4 },
+  { "id": "health", "title": "Health & Medicine", "titleKo": "건강/의약품", "icon": "medkit", "order": 5 },
+  { "id": "etc", "title": "Others", "titleKo": "기타", "icon": "ellipsis-horizontal", "order": 6 }
+]

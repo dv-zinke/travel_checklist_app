@@ -1,0 +1,11 @@
+{
+  "country": "United States",
+  "countryKo": "미국",
+  "code": "US",
+  "requiredItems": ["passport", "visa"],
+  "recommendedItems": ["travel_insurance", "credit_card"],
+  "notes": {
+    "en": "ESTA is required for Visa Waiver Program countries. Uses 120V Type A/B plugs.",
+    "ko": "비자면제 프로그램 국가는 ESTA가 필요합니다. 120V, A/B 타입 플러그를 사용합니다."
+  }
+}
